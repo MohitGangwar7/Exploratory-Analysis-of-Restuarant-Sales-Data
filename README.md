@@ -1,10 +1,10 @@
 # Exploratory-Analysis-of-Restuarant-Sales-Data
 
 # Page: Home
-![image](https://github.com/MohitGangwar7/Exploratory-Analysis-of-Restuarant-Sales-Data/assets/157283590/714eb2c1-72ef-497e-9b54-27406b8ef52c)
+![image](https://github.com/MohitGangwar7/Exploratory-Analysis-of-Restuarant-Sales-Data/assets/157283590/9d54caa5-65a3-4a2e-9a54-bd13557b9ee2)
 
 # Page: Best/worst 
-![image](https://github.com/MohitGangwar7/Exploratory-Analysis-of-Restuarant-Sales-Data/assets/157283590/00d26cbf-6f5d-498a-b4c7-0f6dcf81fdfa)
+![image](https://github.com/MohitGangwar7/Exploratory-Analysis-of-Restuarant-Sales-Data/assets/157283590/94ccb552-751b-4d4f-8bb9-3f955c9116c2)
 
 # Restaurant Sales Data Analysis using Power BI
   This repository contains an end-to-end project on analyzing restaurant sales data using Power BI. The project includes a dynamic and interactive dashboard that uses advanced DAX functions to visualize the critical KPIs and data, helping us to understand our sales performance over time and make data-driven decisions.
